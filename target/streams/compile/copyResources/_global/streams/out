@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/faris/IdeaProjects/play-samples-play-scala-starter-example/conf/application.conf,/home/faris/IdeaProjects/play-samples-play-scala-starter-example/target/scala-2.13/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/faris/IdeaProjects/play-samples-play-scala-starter-example/conf/routes,/home/faris/IdeaProjects/play-samples-play-scala-starter-example/target/scala-2.13/classes/routes)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/home/faris/IdeaProjects/play-samples-play-scala-starter-example/conf/logback.xml,/home/faris/IdeaProjects/play-samples-play-scala-starter-example/target/scala-2.13/classes/logback.xml)[0m
+[debug] Copy resource mappings: 
+[debug] 	(/home/faris/IdeaProjects/sbt-cicd/conf/application.conf,/home/faris/IdeaProjects/sbt-cicd/target/scala-2.13/classes/application.conf)
+[debug] 	(/home/faris/IdeaProjects/sbt-cicd/conf/routes,/home/faris/IdeaProjects/sbt-cicd/target/scala-2.13/classes/routes)
+[debug] 	(/home/faris/IdeaProjects/sbt-cicd/conf/logback.xml,/home/faris/IdeaProjects/sbt-cicd/target/scala-2.13/classes/logback.xml)

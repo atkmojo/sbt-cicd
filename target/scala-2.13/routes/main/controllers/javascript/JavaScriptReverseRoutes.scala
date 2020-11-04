@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/faris/IdeaProjects/play-samples-play-scala-starter-example/conf/routes
-// @DATE:Tue Nov 03 21:12:57 CET 2020
+// @SOURCE:/home/faris/IdeaProjects/sbt-cicd/conf/routes
+// @DATE:Tue Nov 03 23:40:00 CET 2020
 
 import play.api.routing.JavaScriptReverseRoute
 

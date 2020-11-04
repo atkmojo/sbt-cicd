@@ -50,8 +50,8 @@ Seq[Any](format.raw/*6.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2020-11-03T21:12:57.708927
-                  SOURCE: /home/faris/IdeaProjects/play-samples-play-scala-starter-example/app/views/index.scala.html
+                  DATE: 2020-11-03T23:40:00.731022
+                  SOURCE: /home/faris/IdeaProjects/sbt-cicd/app/views/index.scala.html
                   HASH: 01204b018a852c72d33c234b1668ca16303e6179
                   MATRIX: 873->137|1021->192|1049->387|1077->389|1109->412|1149->414|1182->543|1214->549|1268->582|1301->585
                   LINES: 24->5|29->6|30->11|31->12|31->12|31->12|33->17|34->18|34->18|36->20

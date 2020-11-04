@@ -27,5 +27,13 @@ pipeline {
             }
         }
 
+        stage('Package') {
+            steps {
+                echo "Packaging..."
+                sh "sbt docker:publishLocal"
+            }
+        }
+
+
     }
 }
