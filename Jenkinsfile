@@ -9,30 +9,30 @@ pipeline {
         stage('Compile') {
             steps {
                 echo "Compiling..."
-                sh "sbt compile"
+                sh "mvn compile"
             }
         }
 
         stage('Test') {
             steps {
                 echo "Testing..."
-                sh "sbt test"
+                sh "mvn test"
             }
         }
 
         stage('Package') {
             steps {
                 echo "Packaging..."
-                sh "sbt package"
+                sh "mvn package"
             }
         }
 
-        stage('Publish') {
+     /*   stage('Publish') {
             steps {
                 echo "Packaging..."
                 sh "sbt docker:publishLocal"
             }
         }
-
+*/
     }
 }
